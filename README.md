@@ -30,8 +30,8 @@ I'm a Computer Science student specializing in Artificial Intelligence. I enjoy 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lessiman-work&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lessiman-work&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lessiman-work&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lessiman-work&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
